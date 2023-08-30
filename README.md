@@ -2,9 +2,8 @@
 ## Bem vindo ao meu perfil  👋
 
 
-- 🔭 Atualmente estou trabalhando em Catanduva, São Paulo
+- 🔭 Atualmente estou trabalhando em São José do Rio Preto, São Paulo
 - 🌱 Atualmente estou aprendendo conceito SOLID em Angular 13+
-- 👯 Estou procurando colaborar em projetos Web
 - ⚡ Curiosidade: Minha maior inspiração para desenvolver é um bom Lo-fi com um café ouvindo o barulho da chuva.
 - :monocle_face: Pretendo adicionar mais alguns projetos no meu perfil que estão em outros locais.
 
