@@ -1,4 +1,4 @@
-# Olá, me chamo Lucas, mas pode me chamar de Zuck se preferir !
+# Olá, me chamo Lucas, mas pode me chamar de Luke se preferir !
 ## Bem vindo ao meu perfil  👋
 
 
