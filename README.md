@@ -1,7 +1,7 @@
 # Olá, me chamo Lucas, mas pode me chamar de Luke se preferir !
 * Desenvolvedor FullStack
 * Apaixonado por tecnologia
-* Amente de MMORPGS principalmente World of Warcraft
+* Amante de MMORPGS principalmente World of Warcraft
 * Evoluindo sempre
 ## Bem vindo ao meu perfil  👋
 
